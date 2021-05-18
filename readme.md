@@ -14,3 +14,15 @@ Om op een nieuwe lijn te schrijven hoor je altijd **tweemaal** _enter_ in te dru
 Iets in het vet zetten werkt zoals discord `**simpelweg met twee sterren**`. Iets schuin zetten doe je door te omsingelen `*met één ster*`.
 
 Je kan  ook onderdelen met een hoofding benadrukken door een `#` te plaatsen aan het begin van een lijn. Meerdere `#` duidt een subhoofding aan.
+
+Een link benoemen doe je zo `[link-naam](link)`: [bijvoorbeeld](https://github.com/foreveryone1/ivorentoren/blob/main/what-Ive-learned-today-meat.md)
+
+Je kan ook naar een hoofding binnen het bestand waarin je schrijft linken. `[link-naam](#hoofdingnaam)`: [bijvoorbeeld](#hoe-een-artikel-bewerken)
+
+Alle leesteken worden hierbij weggelaten en spaties worden liggende strepen.
+
+Je kan helaas géén youtubevideo's rechtsreeks weergeven, maar je kan er wel naar linken.
+
+Een afbeelding kan je naar linken met de voorvermelde format of je kan het laten inbedden in het bestand door voor de link een uitroepteken te zetten. `![](link)`
+
+Je kan een afbeelding rechtsreeks knippen en plakken en deze zal onmiddellijk ingebed en geüpload worden.
