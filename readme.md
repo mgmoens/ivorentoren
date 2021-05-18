@@ -7,3 +7,6 @@
 Klik op het bestand en klik dan op de stylo.
 
 ![image](https://user-images.githubusercontent.com/27033050/118676780-faf58200-b7fb-11eb-997b-429f02f38c5b.png)
+
+# Hoe erin schrijven
+Om op een nieuwe lijn te schrijven hoor je altijd **tweemaal** _enter_ in te drukken.
