@@ -26,3 +26,6 @@ Je kan helaas géén youtubevideo's rechtsreeks weergeven, maar je kan er wel na
 Een afbeelding kan je naar linken met de voorvermelde format of je kan het laten inbedden in het bestand door voor de link een uitroepteken te zetten. `![](link)`
 
 Je kan een afbeelding rechtsreeks knippen en plakken en deze zal onmiddellijk ingebed en geüpload worden.
+
+- Een lijst is zo simpel als een nieuwe lijn beginnen met een streep
+    - Je drukt tweemaal tab vóór de streep om een subdeel van een lijst aan te geven.
