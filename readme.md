@@ -10,3 +10,7 @@ Klik op het bestand en klik dan op de stylo.
 
 # Hoe erin schrijven
 Om op een nieuwe lijn te schrijven hoor je altijd **tweemaal** _enter_ in te drukken.
+
+Iets in het vet zetten werkt zoals discord `**simpelweg met twee sterren**`. Iets schuin zetten doe je door te omsingelen `*met één ster*`.
+
+Je kan  ook onderdelen met een hoofding benadrukken door een `#` te plaatsen aan het begin van een lijn. Meerdere `#` duidt een subhoofding aan.
