@@ -1,4 +1,4 @@
-# What I've Learned Today: Meat
+# Thoughts on the video 'Eating less Meat won't save the Planet. Here's Why'
 
 {% embed url="https://www.youtube.com/watch?v=sGG-A80Tl5g" %}
 
