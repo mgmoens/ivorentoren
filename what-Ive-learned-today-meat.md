@@ -38,6 +38,8 @@ Counterpoint: [Multiple-issues-can-be-handled-at-once](#Multiple-issues-can-be-h
 
 Per capita, 74 kg of food go to waste a year. Isn't this a more pertinent concern?
 
+
+
 # Counterpoints
 ## Green-water-could-be-used-in-other-ways
 See: [Green-water-usage](#Green-water-usage)
