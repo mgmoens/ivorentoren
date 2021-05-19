@@ -2,10 +2,6 @@
 
 {% embed url="https://www.youtube.com/watch?v=sGG-A80Tl5g" caption="transcript" %}
 
-
-
-
-
 ## Arguments given
 
 ### Green-water-usage
