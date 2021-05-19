@@ -18,7 +18,7 @@ As meat is a 'nutrient concentrator' it provides more nutrients per litre of wat
 
 ### Cows-upcycle-waste
 
-Counterpoint: [Cows-are-mostly-fed-using-crops](what-ive-learned-today-meat.md#Cows-are-mostly-fed-using-crops)
+Counterpoint: [Cows-are-mostly-fed-using-crops](what-ive-learned-today-meat.md#cows-are-mostly-fed-using-crops)
 
 The food cows receive and the vast majority of the land cows occupy would otherwise go unused, as they aren't fit for human edible cultivation.
 
@@ -30,13 +30,13 @@ Livestock also makes the agricultural loop more efficient by turning waste produ
 
 ### Western-meat-production-is-efficient
 
-Counterpoint: [Global-statistics-matter](what-ive-learned-today-meat.md#Global-statistics-matter)
+Counterpoint: [Global-statistics-matter](what-ive-learned-today-meat.md#global-statistics-matter)
 
 Meat is produced much more efficiently in the west than in developing countries. Reducing the meat consumption of someone living in the west is proportionally less impactful than reducing the meat consumption of someone in a developing country.
 
 ### Cows-dont-add-to-the-carbon-cycle
 
-Counterpoint: [Environmental-effects](what-ive-learned-today-meat.md#Environmental-effects)
+Counterpoint: [Environmental-effects](what-ive-learned-today-meat.md#environmental-effects)
 
 It is true that cows contribute methane to the carbon cycle, however the cellulose and other starches they consume were already present in the atmosphere in the form of CO2, which plants capture through photosynthesis.
 
@@ -44,7 +44,7 @@ Contrast this with fossil fuels, which release sequestered carbon.
 
 ### Reducing-food-waste-is-more-important
 
-Counterpoint: [Multiple-issues-can-be-handled-at-once](what-ive-learned-today-meat.md#Multiple-issues-can-be-handled-at-once)
+Counterpoint: [Multiple-issues-can-be-handled-at-once](what-ive-learned-today-meat.md#multiple-issues-can-be-handled-at-once)
 
 Per capita, 74 kg of food go to waste a year. Isn't this a more pertinent concern?
 
@@ -52,7 +52,7 @@ Per capita, 74 kg of food go to waste a year. Isn't this a more pertinent concer
 
 ### Green-water-could-be-used-in-other-ways
 
-See: [Green-water-usage](what-ive-learned-today-meat.md#Green-water-usage)
+See: [Green-water-usage](what-ive-learned-today-meat.md#green-water-usage)
 
 The green water used for growing pasture can be used instead to grow human-edible crops.
 
@@ -66,7 +66,7 @@ Finally, rain water that is utilised for agricultural purposes is [no longer sui
 
 ### Cows-are-mostly-fed-using-crops
 
-See: [Cows-upcycle-waste](what-ive-learned-today-meat.md#Cows-upcycle-waste)
+See: [Cows-upcycle-waste](what-ive-learned-today-meat.md#cows-upcycle-waste)
 
 > Grazing systems supply about 9 percent of the world's production of beef and about 30 percent of the world's production of sheep and goat meat
 
@@ -74,13 +74,13 @@ See: [Cows-upcycle-waste](what-ive-learned-today-meat.md#Cows-upcycle-waste)
 
 This suggests that most of the beef produced in the world is derived from cattle that are partially or wholly fed on crops. While this does include waste products, such as husks and stems, the fact remains that 1/3 of the land dedicated to livestock is arable land which could be used for human-edible crops.
 
-In addition, fodder crops such as alfalfa are often [irrigated](https://extension.unr.edu/publication.aspx?PubID=2575#:~:text=Amount%20of%20water%20to%20apply,every%20ton%20of%20hay%20produced.&text=By%20early%20June%2C%20this%20can,as%202.0%20inches%20per%20week.), \(partially\) negating the point made in [Green-water-usage](what-ive-learned-today-meat.md#Green-water-usage).
+In addition, fodder crops such as alfalfa are often [irrigated](https://extension.unr.edu/publication.aspx?PubID=2575#:~:text=Amount%20of%20water%20to%20apply,every%20ton%20of%20hay%20produced.&text=By%20early%20June%2C%20this%20can,as%202.0%20inches%20per%20week.), \(partially\) negating the point made in [Green-water-usage](what-ive-learned-today-meat.md#green-water-usage).
 
 Regardless of apparent nutrient balance differences, 2.8 kilograms of human edible food is consumed to create a kilogram of beef, in addition to the non human edible food grown on land that could be used for human-edible food. This represents an inefficiency, which would be exacerbated if one includes the percentage of fodder grown on land viable for growing human-edible food.
 
 ### Global-statistics-matter
 
-See: [Western-meat-production-is-efficient](what-ive-learned-today-meat.md#Western-meat-production-is-efficient)
+See: [Western-meat-production-is-efficient](what-ive-learned-today-meat.md#western-meat-production-is-efficient)
 
 The inefficiencies of developing countries do impact us due to global trade.
 
@@ -90,7 +90,7 @@ When we eat meat from, for example, Brazil we're not just eating inefficient bee
 
 ### Environmental-effects
 
-see: [Cows-dont-add-to-the-carbon-cycle](what-ive-learned-today-meat.md#Cows-dont-add-to-the-carbon-cycle)
+see: [Cows-dont-add-to-the-carbon-cycle](what-ive-learned-today-meat.md#cows-dont-add-to-the-carbon-cycle)
 
 Despite the carbon already being in the environment, turning CO2 to methane is still a net increase in the _warming effect_ due to its high [GWP](https://www.epa.gov/ghgemissions/understanding-global-warming-potentials).
 
@@ -100,7 +100,7 @@ In [developing countries](https://www.sciencedirect.com/science/article/pii/S037
 
 ### Multiple-issues-can-be-handled-at-once
 
-see: [Reducing-food-waste-is-more-important](what-ive-learned-today-meat.md#Reducing-food-waste-is-more-important)
+see: [Reducing-food-waste-is-more-important](what-ive-learned-today-meat.md#reducing-food-waste-is-more-important)
 
 Food waste and meat consumption can both be reduced through policy and awareness, in fact, the same awareness pushes can be applied to both concerns.
 
