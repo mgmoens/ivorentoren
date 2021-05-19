@@ -2,7 +2,7 @@
 topic: 'geopolitiek, geopolitics'
 ---
 
-# Politieke-Geschiedenis-van-Tatmadaw
+# Politieke Geschiedenis van Tatmadaw
 
 ## Een politieke geschiedenis van de Tatmadaw
 
