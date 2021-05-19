@@ -52,7 +52,7 @@ Duns opvolger was niemand minder dan generaal Ne Win. Geboren als Shu Maung in e
 
 In 1958 bereikte de het politieke bestel haar kookpunt. Door een interne twist binnen de heersende politieke coalitie, spatte deze uit elkaar. Deze politieke crisis riskeerde de broze stabiliteit van het gehele land te doen barsten en Premier U Nu gaf het leger zijn zegen om de macht over te nemen voor een periode van twee jaar. Hier trad Ne Win voor twee jaar op het voorplan, wanneer hij de hoogste functie bekleedde als Interim-Premier om orde op zaken te stellen.
 
-## Deel II : De Zon
+### Deel II : De Zon
 
 **Het leger grijpt de macht**
 
