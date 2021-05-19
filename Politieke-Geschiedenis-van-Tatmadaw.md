@@ -80,7 +80,7 @@ In 1960 werd het democratische gezag hersteld en werd U Nu opnieuw Premier. Met 
 Het was gedurende deze periode onder Ne Win, tussen 1962 en 1988, waarin Birma institutioneel gevormd zou worden als een etnocentristische staat waarin het leger de centrale functie vervult in alle aspecten van het politieke wezen en de uitvoerende macht bijna uitsluitend bezet werd door legerofficieren. De eerste twaalf jaren post-1962 (1962-1974) werden gekenmerkt door een directe militaire dictatuur. De twaalf jaren erna (1974-1988) zouden dan weer gekarakteriseerd worden door een autoritair één-partijbestel, geleid door de Birmese Socialistische Programmapartij (BSPP) en openlijk door de Tatmadaw gesteund. De ideologie achter dit bewind was “de Birmese weg naar Socialisme”, de facto een vaag uitgelijnd hersenspinsel waarin revolutionair, antiwesters, nationalistisch onafhankelijkheidsdenken werd ontdaan van alle democratische ambities. 
 
 
-**De oneindige oorlog
+**De oneindige oorlog**
 
 
 In deze nieuwe constitutionele orde van 1974, werd geen duimbreed toegegeven aan etnische minderheden, die steeds meer in opstand kwamen tegen het dictatoriale bewind van Ne Win. Met het wegtrekken van de KMT, doken etnische rebellengroeperingen in het economische vacuüm om zo hun gewapende opstand te financieren. Tegen 1960 was de gehele Birmese opiumhandel in handen van rebellen. Oog-in-oog met tot de tand bewapende, door opiumhandel gefinancierde rebellengroeperingen werd anti-oproer een verdere wederkerende prioriteit van het Ne Win-regime.
@@ -88,7 +88,7 @@ Hierdoor zou de Tatmadaw de komende decennia meer en meer verstrengeld geraken i
 Ook Beijing kwam zich moeien. Door een spill-over van de Culturele Revolutie die in China hevig woedde, werd Birma hevig geplaagd door Chinees-gelieerde communistische revoltes – steeds zonder succes, maar de latente sinofobie binnen de dictatuur aanwakkerend. Communistische opstandelingen werden verdrongen naar het noordoosten van het land, waar ze hun lot verbonden met plaatselijke rebellerende etnische milities.
 
 
-**Birmees socialisme
+**Birmees socialisme**
 
 
 Economisch gezien was het bewind van Ne Win een ramp. Het land, al sterk onderontwikkeld sinds haar onafhankelijkheid verpauperde dermate door nationalistisch economisch beleid dat zich veeleer focuste op xenofobie dan op economische theorie. Onder het motto “Birma voor Birmezen”, speelde Ne Win in op racistische sentimenten jegens Birmezen van Indische origine die als een ongewenst reliek van het koloniale verleden werden gezien. Bezit van de Indische gemeenschap, die in 1962 nog 60 % van de handel verantwoordelijk was, werd geconfisqueerd en genationaliseerd. Ook tegen westerse en Chinese invloed was het Ne Win-regime sterk gekant, met een haastige nationalisering en verdere economische isolatie tot gevolg.
@@ -113,7 +113,7 @@ Een belangrijke kanttekening hierbij is dat dit enkel kon gebeuren door de versp
 De Nationale Conventie mondde uit op een bevestiging van de divergerende ambities van partijen, etnische groeperingen en de Tatmadaw. Wat een essentiële stap ging worden in de transitieperiode, draaide op niets uit.
 
 
-**Militaire modernisering
+**Militaire modernisering**
 
 
 Het leger zelf was hopeloos verouderd en bezat niet de capaciteit om de bevolking en het gehele land manu militari te blijven bezetten. Hierom werd er een militaire moderniserings- en rekruteringscampagne ingezet. De Tatmadaw, groeide aan van 198,681 soldaten in 1988 naar het dubbel tegen het einde van de jaren ’00. Ook materieel zette de Tatmadaw, tot dan grotendeels bewapend met materieel uit de koloniale tijd, in op modernisatie en kocht het vliegtuigen, artillerie en fregatten aan.
@@ -127,7 +127,7 @@ Een sector waarin beide holdings een grote vinger in de pap te brokken hebben is
 Met UMEHL en MEC versterkte de Tatmadaw gestaag hun greep op de economie en kon de politieke macht worden omgezet in een militair-commercieel complex, op maat van eigengewin voor de hoogste officieren.
 
 
-**Than Shwe
+**Than Shwe**
 
 
 Toen generaal Saw Maung in 1992 kenmerken van waanzinnigheid begon te vertonen (hij geloofde een reïncarnatie te zijn van een 11e-eeuwse Birmese koning), werd hij als voorzitter van de SLORC vervangen door generaal Than Shwe, een protegé van de ondertussen tachtigjarige, maar nog steeds zeer betrokken Ne Win. generaal Than Shwe staat alom gekend als een man zonder talenten of enige ideologie, een pluimstrijker die zich enkel laat leiden door opportunisme. Hij ging dan ook toepasselijk de geschiedenis in als de leider die de hoofdstad van het land te verplaatsen naar Naypyitaw en de naam van de SLORC wijzigde naar SPDC (State Peace and Development Council). Beide beslissingen zouden zich vooral laten kenmerken door symboliek en weinig inhoudelijke argumentatie, een centraal element in het beleid van de bijgelovige Than Shwe.
@@ -145,7 +145,7 @@ Ook in 2007 werd de opstand hardhandig neergeslagen. Het internet werd afgeslote
 Als reactie op de gruwelijke repressie, kondigde toenmalige President George W. Bush een nieuwe ronde van sancties aan richting de junta. 
 
 
-**De Zondvloed
+**De Zondvloed**
 
 
 De situatie verergerde bijna aansluitend op de neergeslagen Saffraanrevolutie toen in mei 2008 Cycloon Nargis Myanmar hard trof, met 138,000 doden tot gevolg. Vooral de Irrawaddydelta werd hard getroffen, maar de junta – iedere externe actor argwanend – weigerde initieel iedere buitenlandse hulp. Het duurde meer dan twee weken aleer Than Shwe internationale noodhulp toeliet, waarbij kostbare tijd verloren ging om mensenlevens te redden.
@@ -164,7 +164,7 @@ Mede een gevolg hiervan zou ook de burgeroorlog tussen de Tatmadaw en de etnisch
 **Deel III : The Lady & de Kattenstront**
 
 
-**De heruitgevonden grondwet
+**De heruitgevonden grondwet**
 
 
 De grondwet van 2008 werd na een volksraadpleging goedgekeurd en in 2010 gingen der Myanmarezen opnieuw naar de stembus, maar het zou naïef geweest zijn te geloven dat de Tatmadaw deze verkiezingen volledig vrij zou laten verlopen. In de aanloop naar de verkiezingen toverde de SPDC nog twee konijnen uit haar hoed: de Verkiezingscommissie en de Partijregistratiewet.
@@ -176,7 +176,7 @@ Een Verkiezingscommissie – met leden benoemd door de heersende partij en de Ta
 Niettegenstaande het democratische fiasco en de daaropvolgende vorming van een regering waarin oudgedienden van de Tatmadaw de lakens uitdeelden, ontpopte USDP President Thein Sein zich tot een hervormingsgezinde president en liet het leger de teugels zowaar wat vieren – weliswaar zonder ze ooit door te knippen. De militaire doctrine van de Tatmadaw werd alsook aangepast van anti-oproer naar een “standaard leger” – althans in strategische retoriek. 
 
 
-**Wissel van de macht
+**Wissel van de macht**
 
 
 Deze Tatmadaw zou voortaan geleid worden door een grijs figuur. Gestaag zijn carrière opgebouwd in de woelige jaren onder het BSSP en de SLORC/SPDC, liet hij lang nergens enige memorabele indruk na. Zijn onopvallende persoonlijkheid leverde hem onder medesoldaten in zijn jonge jaren de bijnaam  “kattenstront” op – in alle stilte gelegd, maar een sterke stank nalatend. Hier zou verandering in komen toen hij als Veldheer van het Noordoostelijke Commando in 2009 de aandacht naar zich toe trok bij de onrust in Kokang. In 2011 zou de wereld hem leren kennen als Opperbevelhebber Min Aung Hlaing.
@@ -191,7 +191,7 @@ Wanneer duidelijk werd dat de NLD alsnog mocht deelnemen in de tussentijdse verk
 Myanmar leek de pagina om te slaan en klaar voor een betere, democratische toekomst.
 
 
-**Opnieuw onrust
+**Opnieuw onrust**
 
 
 Het is binnen deze context, in de schaduw van de internationale goednieuwsshow waarin zich in 2012 een humanitaire tragedie in de zuidwestelijke deelstaat Rakhine ontvouwde. Een geschil tussen Arakanezen en de Rohingyagemeenschap escaleerde. Wanneer de Tatmadaw tussenbeide kwam, koos het resoluut de kant van de boeddhistische Arakangemeenschap. Er werden honderden Rohingya’s vermoord en meer dan 125,000 moslims in Rakhine werd gedwongen andere oorden op te zoeken. 
@@ -215,7 +215,7 @@ In november 2015 werden er weer verkiezingen gehouden. Thein Sein stond er garan
 In 2016 hief de Obama administratie alle resterende economische sancties gericht naar Myanmar op.
 
 
-**U Ko Ni
+**U Ko Ni**
 
 
 Hoewel Aung San Suu Kyi nog steeds grondwettelijk weerhouden werd een officieel ambt uit te voeren, kwam haar juridisch adviseur U Ko Ni op de proppen met een constitutioneel hoogstandje. In plaats van Suu Kyi de functie te laten vervullen van Presidente of Premier – wat verboden werd –, vond hij een nieuwe functie uit van “staatsadviseur” (State Counsellor). Binnen deze functie zou ze als de facto staatshoofd fungeren. De Tatmadaw liet het knarsetandend gebeuren en op 6 april 2016 legde Aung San Suu Kyi de eed af als eerste Staatsadviseur van Myanmar.
@@ -233,7 +233,7 @@ De situatie in Rakhine escaleerde opnieuw in augustus 2017, ditmaal geïnstigeer
 Hoewel de grootste boosdoener in dit hele gebeuren, richtte de wereldgemeenschap haar beschuldigende blik niet op de Tatmadaw maar op de democratisch verkozen Aung San Suu Kyi. De Nobelprijswinnares van 1991, naar een reactie op de situatie gevraagd, gaf echter geen krimp en ze ontkende alle aantijgingen van etnische zuivering.
 
 
-**Noordelijke Alliantie
+**Noordelijke Alliantie**
 
 
 Ook in het noorden en het oosten van het land evolueerde het in de slechte richting. Eind 2016 bundelden vier etnische gewapende organisaties – het Arakanleger, het Kachin Onafhankelijkheidsleger, het Myanmar Nationaaldemocratische Alliantieleger en het Ta’ang Vrijheidsleger – hun krachten in een coalitie die ze zelf de “Noordelijke Alliantie” zouden noemen. Hun eerste wapenfeit was een reeks aanvallen op konvooien van de Tatmadaw in verschillende noordelijke steden. Clashes tussen de Noordelijke Alliantie en de Tatmadaw zouden schering en inslag worden tot vandaag.
@@ -245,7 +245,7 @@ Opererend binnen de Noordelijke Alliantie vanuit Kachin als uitvalsbasis, is het
 Snel bleek dat de Tatmadaw haar tanden stukbeet op het sterk georganiseerde en lokaal sterk ingebedde Arakanleger. Het werd duidelijk dat traditionele repressie niet zou volstaan om de Arakanezen tegen te houden. Het Arakanleger is een ware 21e -eeuwse, moderne, jonge militie die op alle sociale mediaplatformen haar aanwezigheid heeft – zelfs op twitter. Om deze sterke online organisatie tegen te gaan, verbood de overheid – op aanvraag van de Tatmadaw – mobiel dataverkeer vanaf juni 2019 in regio. Het zou tot 2 februari 2021 duren, wanneer de 18 maanden durende internetshutdown – de langste ooit in de wereld – zou worden opgeheven.
 
 
-**De politicus
+**De politicus**
 
 
 Ondertussen leek Aung San Suu Kyi te volharden in haar faustiaanse overeenkomst met de Tatmadaw door in 2019 naar Den Haag af te reizen om de acties van het Myanmarese leger in Rakhine met hand en tand te verdedigen voor het Internationale Gerechtshof van de Verenigde Naties. Het zou simplistisch zijn deze onderneming af te doen als opportunistische hofmakerij naar de Tatmadaw. Zoals de staatsadviseur in een interview in 2017 aangaf, zag ze zichzelf altijd in de eerste plaats als een politicus. En hoewel haar trip naar Den Haag haar zou brandmerken als een internationale paria, werd haar stevige verdediging van de acties in Rakhine aan het nationalistische thuisfront uiterst positief onthaald.
@@ -275,7 +275,7 @@ Met eenzelfde snelheid mobiliseerden de Myanmarese burgers straatprotesten, stak
 Ook het etnische conflict laait op, maar deze keer zijn het de etnische gewapende organisaties die op steun van een groot deel van de bevolking kunnen rekenen – voor het eerst in de geschiedenis.
 
 
-**Waarom nu ?
+**Waarom nu ?**
 
 
 De volstrekt ongeloofwaardige verklaring aangehaald over verkiezingsfraude achterwege gelaten, is het gissen naar de ware reden achter deze coup d’état. Niettegenstaande, zijn er drie wederkerende redeneringen die de noodzaak voor een coup zouden verklaren vanuit het oogpunt van de Tatmadaw. 
