@@ -1,6 +1,5 @@
 # Hoe bewerken
-
-
+Een korte samenvatting van de bewerkingen die men kan verrichten via github.
 
 ## Hoe een 'artikel' toevoegen
 
