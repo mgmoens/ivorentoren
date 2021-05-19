@@ -37,3 +37,7 @@ Je kan een afbeelding rechtsreeks knippen en plakken en deze zal onmiddellijk in
 * Een lijst is zo simpel als een nieuwe lijn beginnen met een streep
   * Je drukt tweemaal tab vóór de streep om een subdeel van een lijst aan te geven.
 
+Een citaat is ook mogelijk
+> door simpelweg een lijn te beginnen met een `>`
+
+Youtube 'embedden' kan door dit te plaatsen `{% embed url="youtubelink" %}`
