@@ -8,7 +8,7 @@
 
 ### Green-water-usage
 
-Criticisms: [Green-water-could-be-used-in-other-ways](what-ive-learned-today-meat.md#Green-water-could-be-used-in-other-ways)
+Criticisms: [Green-water-could-be-used-in-other-ways](what-ive-learned-today-meat.md#green-water-could-be-used-in-other-ways)
 
 [additional source](https://waterfootprint.org/en/resources/interactive-tools/product-gallery/)
 
