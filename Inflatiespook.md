@@ -1,4 +1,6 @@
-
+---
+topic: economics, economie
+--- 
 
 # Het Inflatiespook
 
