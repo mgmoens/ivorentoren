@@ -1,3 +1,6 @@
+---
+topic: geopolitiek, geopolitics
+---
 # Een politieke geschiedenis van de Tatmadaw
 
 
