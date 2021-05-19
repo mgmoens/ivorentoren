@@ -14,7 +14,7 @@ Hoewel logisch, zou het echter kortzichtig zijn deze inflatie enkel te wijten aa
 
 ![image](https://user-images.githubusercontent.com/84398782/118862994-ab3bb700-b8de-11eb-9989-0d8dfdac3909.png)
 
-**Base effect**
+## Base effect
 
 Hoewel de heer De Wever uit de lucht leek te vallen over het gevaar van inflatie – en geen kans onbenut liet de media te verwijten het verhaal niet op te pikken – werd er al lang [gerekend](https://archive.is/9BlWJ) op een toenemende inflatie. De meeste economische indicatoren die inflatie peilen doen dat op basis van jaarlijkse vergelijkingen - zo ook de reeds vermelde CPI-U.
 
@@ -26,7 +26,7 @@ De CPI-U van april 2021 relatief t.o.v. april 2020 bedraagt dus +4.2 %, maar in 
 
 ![image](https://user-images.githubusercontent.com/84398782/118863024-b2fb5b80-b8de-11eb-9e0b-54fa0a66853f.png)
 
-**Tekorten**
+## Tekorten
 
 Door de sneller dan verwachte wederopstanding van de Amerikaanse economie, niet in het minst te danken aan de [razendsnelle vaccinatiecampagne](https://www.bloomberg.com/graphics/covid-vaccine-tracker-global-distribution/), kwam de Amerikaanse consumptiemotor begin dit jaar terug op gang. De onder de CARES Act uitgedeelde stimuluschecks werden snel ingezet en dit leidde tot tekorten in winkels, warenhuizen en fabrieken die de vraag naar spullen simpelweg niet konden volgen.
 
@@ -36,13 +36,13 @@ De verhoging van grondstofprijzen heeft op termijn een belangrijke impact op de 
 
 ![image](https://user-images.githubusercontent.com/84398782/118863060-bb539680-b8de-11eb-95b3-604e91b90219.png)
 
-**Veranderd mandaat**
+## Veranderd mandaat
 
 Een derde belangrijke factor is dat de voorzitter van de Federal Reserve reeds in augustus [afkondigde](https://www.federalreserve.gov/newsevents/speech/powell20200827a.htm) dat het haar mandaat van prijsstabiliteit voortaan zou interpreteren door als doel te stellen jaarlijks een _gemiddelde_ van 2 % inflatie te bereiken. Dit was een subtiele maar cruciale afwijking van de eerdere doelstelling van exact 2 % inflatiegraad en gaf de Fed meer ruimte om aan haar andere mandaat – maximale werkzaamheidsgraad – tegemoet te komen.
 
 Indien de jaarlijkse inflatie groter zal worden de komende jaren, zal dit dus geen onverwacht probleem zijn, eerder de uitvoering van een beleidsdoelstelling.
 
-**Politiek probleem**
+## Politiek probleem
 
 _Zoals FT-commentator Martin Wolf zei:_
 
