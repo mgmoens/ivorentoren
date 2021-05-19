@@ -14,7 +14,7 @@ Hoewel logisch, zou het echter kortzichtig zijn deze inflatie enkel te wijten aa
 
 ![image](https://user-images.githubusercontent.com/84398782/118862994-ab3bb700-b8de-11eb-9989-0d8dfdac3909.png)
 
-## Base effect
+## 'Base effect'
 
 Hoewel de heer De Wever uit de lucht leek te vallen over het gevaar van inflatie – en geen kans onbenut liet de media te verwijten het verhaal niet op te pikken – werd er al lang [gerekend](https://archive.is/9BlWJ) op een toenemende inflatie. De meeste economische indicatoren die inflatie peilen doen dat op basis van jaarlijkse vergelijkingen - zo ook de reeds vermelde CPI-U.
 
