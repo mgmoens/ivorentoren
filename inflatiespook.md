@@ -6,7 +6,7 @@ topic: 'economics, economie'
 
 Afgelopen vrijdag ging N-VA voorzitter [Bart De Wever](https://twitter.com/de_NVA/status/1393297306187927555?s=20) tekeer tegen het monetaire beleid van de Amerikaanse centrale bank en de gevaren die dit met zich meedraagt:
 
-* _“We leven in de illusie dat geld 'geprint' wordt. De inflatie stijgt in Amerika. Als dat hier gebeurt, gaan we naar moeilijke tijden.”_
+> _“We leven in de illusie dat geld 'geprint' wordt. De inflatie stijgt in Amerika. Als dat hier gebeurt, gaan we naar moeilijke tijden.”_
 
 Hij had geen ongelijk, althans wat betreft de inflatiecijfers in Amerika. Op 12 mei kwam het [US Bureau of Labor Statistics](https://www.bls.gov/news.release/cpi.nr0.htm) inderdaad met een schijnbaar bedroevend rapport waarin vermeld werd dat de CPI-U \(Consumer Price Index for All Urban Consumers\) in april 2021 gestegen was met 0.8 %. Deze stijging zou de totale inflatiegraad voor de afgelopen 12 maanden op 4.2 % brengen - de grootste stijging sinds de crisis van 2008.
 
