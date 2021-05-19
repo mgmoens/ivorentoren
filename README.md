@@ -1,6 +1,10 @@
 # Start
 
-Recente schrijfsels:
+Een verzameling schrijfsels.
+
+_A collection of various writings._
+
+## Recent:
 
 {% page-ref page="inflatiespook.md" %}
 
