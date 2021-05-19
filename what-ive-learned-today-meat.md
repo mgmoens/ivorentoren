@@ -1,6 +1,7 @@
 # What I've Learned Today: Meat
 
-[![The video](https://i.imgur.com/QJ3sQIA.png)](https://www.youtube.com/watch?v=sGG-A80Tl5g)
+https://www.youtube.com/watch?v=sGG-A80Tl5g
+
 [transcript:](https://drive.google.com/file/d/1GykxwpRxCHXMtOULQwDjDqiMUY5pnwOB/view?usp=sharing)
 
 ## Arguments given
