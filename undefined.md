@@ -1,4 +1,4 @@
-# readme
+# Ω Hoe bewerken
 
 ## Hoe een 'artikel' toevoegen
 
