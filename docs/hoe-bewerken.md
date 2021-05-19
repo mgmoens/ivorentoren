@@ -23,7 +23,7 @@ Je kan ook onderdelen met een hoofding benadrukken door een `#` te plaatsen aan 
 
 Een link benoemen doe je zo `[link-naam](link)`: [bijvoorbeeld](https://github.com/foreveryone1/ivorentoren/blob/main/what-Ive-learned-today-meat.md)
 
-Je kan ook naar een hoofding binnen het bestand waarin je schrijft linken. `[link-naam](#hoofdingnaam)`: [bijvoorbeeld]()
+Je kan ook naar een hoofding binnen het bestand waarin je schrijft linken. `[link-naam](#hoofdingnaam)`: [bijvoorbeeld](#hoe-een-artikel-bewerken)
 
 Alle leesteken worden hierbij weggelaten en spaties worden liggende strepen.
 
