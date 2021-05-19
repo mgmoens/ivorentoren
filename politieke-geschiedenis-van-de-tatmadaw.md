@@ -1,9 +1,7 @@
 ---
 topic: 'geopolitiek, geopolitics'
 ---
-
 # Politieke Geschiedenis van de Tatmadaw
-
 
 Het was met grote sier dat de Tatmadaw – het Birmese leger – de 76e Nationale Dag van de Strijdkrachten vierde.
 
