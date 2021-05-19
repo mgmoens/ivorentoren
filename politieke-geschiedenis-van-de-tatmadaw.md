@@ -2,9 +2,8 @@
 topic: 'geopolitiek, geopolitics'
 ---
 
-# Politieke Geschiedenis van Tatmadaw
+# Politieke Geschiedenis van de Tatmadaw
 
-## Een politieke geschiedenis van de Tatmadaw
 
 Het was met grote sier dat de Tatmadaw – het Birmese leger – de 76e Nationale Dag van de Strijdkrachten vierde.
 
@@ -14,7 +13,7 @@ Ondertussen is de dodentol sinds de februari al opgelopen tot 700 en is er nog g
 
 ![](https://user-images.githubusercontent.com/84398782/118833138-82f18f80-b8c1-11eb-83fe-355904dba3a4.png)
 
-### Deel I : De Onafhankelijkheidsstrijd
+## Deel I : De Onafhankelijkheidsstrijd
 
 
 ### De Oorsprong
@@ -53,7 +52,7 @@ Duns opvolger was niemand minder dan generaal Ne Win. Geboren als Shu Maung in e
 
 In 1958 bereikte de het politieke bestel haar kookpunt. Door een interne twist binnen de heersende politieke coalitie, spatte deze uit elkaar. Deze politieke crisis riskeerde de broze stabiliteit van het gehele land te doen barsten en Premier U Nu gaf het leger zijn zegen om de macht over te nemen voor een periode van twee jaar. Hier trad Ne Win voor twee jaar op het voorplan, wanneer hij de hoogste functie bekleedde als Interim-Premier om orde op zaken te stellen.
 
-### Deel II : De Zon
+## Deel II : De Zon
 
 ### Het leger grijpt de macht
 
@@ -116,7 +115,7 @@ Maar voor een naïef optimisme bleek het te vroeg te zijn. De grondwet van 2008,
 
 Mede een gevolg hiervan zou ook de burgeroorlog tussen de Tatmadaw en de etnische gewapende organisaties onverkort voortduren. Zo brak er in 2009 nog onrust uit toen het Myanmar Nationaaldemocratische Alliantieleger – één van de splintergroeperingen na het uiteenvallen van de Communistische Partij – een legerpost aanviel in Laukkai, Kokang \(Noord-Shan\). De Tatmadaw opteerde ervoor om de situatie te doen escaleren met een overweldigende raid en bombardementen die een exodus veroorzaakten waarbij 10,000 vluchtelingen naar China vluchtten.
 
-### Deel III : The Lady & de Kattenstront
+## Deel III : The Lady & de Kattenstront
 
 ### De heruitgevonden grondwet
 
