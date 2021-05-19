@@ -4,7 +4,7 @@ topic: 'economics, economie'
 
 # Het Inflatiespook
 
-Afgelopen vrijdag ging N-VA voorzitter [Bart De Wever](https://twitter.com/de_NVA/status/1393297306187927555?s=20) tekeer tegen het monetaire beleid van de Amerikaanse centrale bank en de gevaren die dit met zich meedragen:
+Afgelopen vrijdag ging N-VA voorzitter [Bart De Wever](https://twitter.com/de_NVA/status/1393297306187927555?s=20) tekeer tegen het monetaire beleid van de Amerikaanse centrale bank en de gevaren die dit met zich meedraagt:
 
 * _“We leven in de illusie dat geld 'geprint' wordt. De inflatie stijgt in Amerika. Als dat hier gebeurt, gaan we naar moeilijke tijden.”_
 
