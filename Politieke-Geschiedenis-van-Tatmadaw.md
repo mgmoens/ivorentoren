@@ -39,7 +39,7 @@ De Britten hadden nog een eitje te pellen met de man die hun eerst het land verd
 
   
 ![image](https://user-images.githubusercontent.com/84398782/118833242-97ce2300-b8c1-11eb-8f86-36585e4cc5c9.png)
-<figcaption>Supreme Allied Commander voor Zuidoost Azië, Lord Louis Mountbatten, ontvangt Bogyoke Aung San – hier nog in Japans uniform – te Kandy (7 september 1945).</figcaption>
+<small>Supreme Allied Commander voor Zuidoost Azië, Lord Louis Mountbatten, ontvangt Bogyoke Aung San – hier nog in Japans uniform – te Kandy (7 september 1945).</small>
 
 
 Sinds de Kandy Overeenkomst vormde Aung Sans leger – hernoemd tot de “Patriottische Birmatroepen” – de ruggenwervel van de moderne Birmese strijdkrachten, aangesterkt met enkele etnische georiënteerde regimenten die al aan Britse zijde stonden. Hoewel de gewiekste Aung San z’n slag thuishaalde door de legitimatie van het eerste, moderne nationale leger, weigerde hij zelf te dienen binnen dit leger, gezien hij zich hierdoor zou moeten ontzeggen van politieke mandaten – conform de koloniale scheiding tussen militair en politiek gezag. Aung San opteerde voor een verdere carrière als politicus.
