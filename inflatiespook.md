@@ -46,7 +46,7 @@ Indien de jaarlijkse inflatie groter zal worden de komende jaren, zal dit dus ge
 
 _Zoals FT-commentator Martin Wolf zei:_
 
-* _“Milton Friedman said that “inflation is always and everywhere a monetary phenomenon”. This is wrong: inflation is always and everywhere a political phenomenon. The question is whether societies want low inflation.”_
+>“Milton Friedman said that “inflation is always and everywhere a monetary phenomenon”. This is wrong: inflation is always and everywhere a political phenomenon. The question is whether societies want low inflation.”
 
 Zelfs indien De Wevers cassandravoorspelling over de inflatie in de VS zich zal veruiterlijken en Europa meegezogen zou worden in de inflatoire spiraal die de Fed voor ons uittekende, zou men nog de vraag kunnen stellen of dit echt zo slecht zou zijn.
 
