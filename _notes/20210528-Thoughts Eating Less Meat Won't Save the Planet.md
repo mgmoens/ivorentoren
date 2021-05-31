@@ -1,6 +1,10 @@
-# Thoughts on the video 'Eating less Meat won't save the Planet. Here's Why'
+---
+title: Thoughts on the video 'Eating less Meat won't save the Planet. Here's Why'
+tags: environmentalism
+toc: true
+---
 
-{% embed url="https://www.youtube.com/watch?v=sGG-A80Tl5g" %}
+<iframe max-width="100%" height="auto" src="https://www.youtube-nocookie.com/embed/sGG-A80Tl5g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [transcript](https://drive.google.com/file/d/1GykxwpRxCHXMtOULQwDjDqiMUY5pnwOB/view?usp=sharing)
 
@@ -8,7 +12,7 @@
 
 ### Green-water-usage
 
-Criticisms: [Green-water-could-be-used-in-other-ways](what-ive-learned-today-meat.md#green-water-could-be-used-in-other-ways)
+Criticisms: [Green-water-could-be-used-in-other-ways](#green-water-could-be-used-in-other-ways)
 
 [additional source](https://waterfootprint.org/en/resources/interactive-tools/product-gallery/)
 
@@ -18,7 +22,7 @@ As meat is a 'nutrient concentrator' it provides more nutrients per litre of wat
 
 ### Cows-upcycle-waste
 
-Counterpoint: [Cows-are-mostly-fed-using-crops](what-ive-learned-today-meat.md#cows-are-mostly-fed-using-crops)
+Counterpoint: [Cows-are-mostly-fed-using-crops](#cows-are-mostly-fed-using-crops)
 
 The food cows receive and the vast majority of the land cows occupy would otherwise go unused, as they aren't fit for human edible cultivation.
 
@@ -30,13 +34,13 @@ Livestock also makes the agricultural loop more efficient by turning waste produ
 
 ### Western-meat-production-is-efficient
 
-Counterpoint: [Global-statistics-matter](what-ive-learned-today-meat.md#global-statistics-matter)
+Counterpoint: [Global-statistics-matter](#global-statistics-matter)
 
 Meat is produced much more efficiently in the west than in developing countries. Reducing the meat consumption of someone living in the west is proportionally less impactful than reducing the meat consumption of someone in a developing country.
 
 ### Cows-dont-add-to-the-carbon-cycle
 
-Counterpoint: [Environmental-effects](what-ive-learned-today-meat.md#environmental-effects)
+Counterpoint: [Environmental-effects](#environmental-effects)
 
 It is true that cows contribute methane to the carbon cycle, however the cellulose and other starches they consume were already present in the atmosphere in the form of CO2, which plants capture through photosynthesis.
 
@@ -44,7 +48,7 @@ Contrast this with fossil fuels, which release sequestered carbon.
 
 ### Reducing-food-waste-is-more-important
 
-Counterpoint: [Multiple-issues-can-be-handled-at-once](what-ive-learned-today-meat.md#multiple-issues-can-be-handled-at-once)
+Counterpoint: [Multiple-issues-can-be-handled-at-once](#multiple-issues-can-be-handled-at-once)
 
 Per capita, 74 kg of food go to waste a year. Isn't this a more pertinent concern?
 
@@ -52,7 +56,7 @@ Per capita, 74 kg of food go to waste a year. Isn't this a more pertinent concer
 
 ### Green-water-could-be-used-in-other-ways
 
-See: [Green-water-usage](what-ive-learned-today-meat.md#green-water-usage)
+See: [Green-water-usage](#green-water-usage)
 
 The green water used for growing pasture can be used instead to grow human-edible crops.
 
@@ -66,7 +70,7 @@ Finally, rain water that is utilised for agricultural purposes is [no longer sui
 
 ### Cows-are-mostly-fed-using-crops
 
-See: [Cows-upcycle-waste](what-ive-learned-today-meat.md#cows-upcycle-waste)
+See: [Cows-upcycle-waste](#cows-upcycle-waste)
 
 > Grazing systems supply about 9 percent of the world's production of beef and about 30 percent of the world's production of sheep and goat meat
 
@@ -80,7 +84,7 @@ Regardless of apparent nutrient balance differences, 2.8 kilograms of human edib
 
 ### Global-statistics-matter
 
-See: [Western-meat-production-is-efficient](what-ive-learned-today-meat.md#western-meat-production-is-efficient)
+See: [Western-meat-production-is-efficient](#western-meat-production-is-efficient)
 
 The inefficiencies of developing countries do impact us due to global trade.
 
@@ -90,7 +94,7 @@ When we eat meat from, for example, Brazil we're not just eating inefficient bee
 
 ### Environmental-effects
 
-see: [Cows-dont-add-to-the-carbon-cycle](what-ive-learned-today-meat.md#cows-dont-add-to-the-carbon-cycle)
+see: [Cows-dont-add-to-the-carbon-cycle](#cows-dont-add-to-the-carbon-cycle)
 
 Despite the carbon already being in the environment, turning CO2 to methane is still a net increase in the _warming effect_ due to its high [GWP](https://www.epa.gov/ghgemissions/understanding-global-warming-potentials).
 
@@ -100,11 +104,10 @@ In [developing countries](https://www.sciencedirect.com/science/article/pii/S037
 
 ### Multiple-issues-can-be-handled-at-once
 
-see: [Reducing-food-waste-is-more-important](what-ive-learned-today-meat.md#reducing-food-waste-is-more-important)
+see: [Reducing-food-waste-is-more-important](#reducing-food-waste-is-more-important)
 
 Food waste and meat consumption can both be reduced through policy and awareness, in fact, the same awareness pushes can be applied to both concerns.
 
 The author presents a false dichotomy by suggesting that the urgence of one dilemma is so great that the other issue is irrelevant.
 
-`= date(today) - date(2020-11-13)`
 

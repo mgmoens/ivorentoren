@@ -1,8 +1,8 @@
 ---
-topic: 'economics, economie'
+tag: [economie, België]
+title: Het Inflatiespook
+toc: true
 ---
-
-# Het Inflatiespook
 
 Afgelopen vrijdag ging N-VA voorzitter [Bart De Wever](https://twitter.com/de_NVA/status/1393297306187927555?s=20) tekeer tegen het monetaire beleid van de Amerikaanse centrale bank en de gevaren die dit met zich meedraagt:
 
@@ -12,7 +12,7 @@ Hij had geen ongelijk, althans wat betreft de inflatiecijfers in Amerika. Op 12 
 
 Hoewel logisch, zou het echter kortzichtig zijn deze inflatie enkel te wijten aan het expansieve monetaire beleid van de Fed. Er zijn minstens drie verklaringen voor de Amerikaanse inflatie die in acht moeten worden genomen om de inflatie die momenteel de gemoederen verhit te verklaren en nuanceren.
 
-![image](https://user-images.githubusercontent.com/84398782/118862994-ab3bb700-b8de-11eb-9989-0d8dfdac3909.png)
+![image](https://user-images.githubusercontent.com/84398782/118862994-ab3bb700-b8de-11eb-9989-0d8dfdac3909.png#center)
 
 ## 'Base effect'
 
@@ -24,7 +24,7 @@ Dit is echter niet het geval wanneer het referentiepunt gelijkloopt met het begi
 
 De CPI-U van april 2021 relatief t.o.v. april 2020 bedraagt dus +4.2 %, maar in acht nemend dat er gerefereerd wordt naar een “abnormaal” referentiejaar, kan men niet anders besluiten dat er hier “appelen met peren” worden vergeleken – ook wel het “base effect genoemd”.
 
-![image](https://user-images.githubusercontent.com/84398782/118863024-b2fb5b80-b8de-11eb-9e0b-54fa0a66853f.png)
+![image](https://user-images.githubusercontent.com/84398782/118863024-b2fb5b80-b8de-11eb-9e0b-54fa0a66853f.png#center)
 
 ## Tekorten
 
@@ -34,7 +34,7 @@ Deze consumptiehonger versterkt door de opstopping in het Suezkanaal en Covid-19
 
 De verhoging van grondstofprijzen heeft op termijn een belangrijke impact op de consumptieprijzen die in acht worden gehouden door de CPU-I, maar of dit zal leiden tot chronische inflatie lijkt nog af te wachten.
 
-![image](https://user-images.githubusercontent.com/84398782/118863060-bb539680-b8de-11eb-95b3-604e91b90219.png)
+![image](https://user-images.githubusercontent.com/84398782/118863060-bb539680-b8de-11eb-95b3-604e91b90219.png#center)
 
 ## Veranderd mandaat
 

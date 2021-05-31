@@ -1,7 +1,8 @@
 ---
-topic: 'geopolitiek, geopolitics'
+tags: geopolitiek
+title: Politieke Geschiedenis van de Tatmadaw
+toc: true
 ---
-# Politieke Geschiedenis van de Tatmadaw
 
 Het was met grote sier dat de Tatmadaw – het Birmese leger – de 76e Nationale Dag van de Strijdkrachten vierde.
 
@@ -9,7 +10,7 @@ In schril contrast met de manier waarop generaal Min Aung Hlaing ten tonele vers
 
 Ondertussen is de dodentol sinds februari al opgelopen tot 700 en is er nog geen verbetering in zicht. In deze drieledige reeks artikels wordt de politieke geschiedenis van de Tatmadaw beschreven – van onafhankelijkheid tot de coup in 2021 – en wordt er onderzocht hoe de situatie vandaag verklaard kan worden.
 
-![](https://user-images.githubusercontent.com/84398782/118833138-82f18f80-b8c1-11eb-83fe-355904dba3a4.png)
+![](https://user-images.githubusercontent.com/84398782/118833138-82f18f80-b8c1-11eb-83fe-355904dba3a4.png#center)
 
 ## Deel I : De Onafhankelijkheidsstrijd
 
@@ -28,7 +29,7 @@ Het duurde tot 27 maart 1945 wanneer generaal Aung San het geweer openlijk van s
 
 Van een harde breuk met de nationalistische fascistische oorsprong van de Tatmadaw bleek er echter geen sprake te zijn. De Britten hadden nog een eitje te pellen met de man die hun eerst het land verdreef om ze nadien terug te vervoegen. Brits Opperbevelhebber Lord Louis Mountbattten nodigde  Aung San uit in Kandy, in het huidige Sri Lanka, om een overeenkomst te smeden met de Birmese strijdkrachten. Tegen de verwachtingen en het advies van de gouverneur van koloniaal Birma in ballingschap, Dorman Smith, in, vergeeft Lord Mountbatten Aung San z’n collaboratieverleden en incorporeert hij het Birmese leger binnen het Brits-Birmese Leger in wat later gekend zou staan als de Kandy Overeenkomst \(1945\).
 
-![Supreme Allied Commander voor Zuidoost Azië, Lord Louis Mountbatten, ontvangt Bogyoke Aung San – hier nog in Japans uniform – te Kandy \(7 september 1945\)](https://user-images.githubusercontent.com/84398782/118833242-97ce2300-b8c1-11eb-8f86-36585e4cc5c9.png)
+![](https://user-images.githubusercontent.com/84398782/118833242-97ce2300-b8c1-11eb-8f86-36585e4cc5c9.png#center) *Supreme Allied Commander voor Zuidoost Azië, Lord Louis Mountbatten, ontvangt Bogyoke Aung San – hier nog in Japans uniform – te Kandy \(7 september 1945\)*
 
 Sinds de Kandy Overeenkomst vormde Aung Sans leger – hernoemd tot de “Patriottische Birmatroepen” – de ruggenwervel van de moderne Birmese strijdkrachten, aangesterkt met enkele etnische georiënteerde regimenten die al aan Britse zijde stonden. Hoewel de gewiekste Aung San z’n slag thuishaalde door de legitimatie van het eerste, moderne nationale leger, weigerde hij zelf te dienen binnen dit leger, gezien hij zich hierdoor zou moeten ontzeggen van politieke mandaten – conform de koloniale scheiding tussen militair en politiek gezag. Aung San opteerde voor een verdere carrière als politicus.
 
@@ -56,7 +57,7 @@ In 1958 bereikte het politieke bestel haar kookpunt. Door een interne twist binn
 
 In 1960 werd het democratische gezag hersteld en werd U Nu opnieuw Premier. Met beloftes tot federalisering, verdiepende democratisering en het verheffen van boeddhisme tot de officiële staatsreligie joeg de premier de Tatmadaw in het harnas gedurende dit korte interregnum. Het bleken vooral de federaliseringsambities te zijn, die de macht in de getormenteerde Shan-, Mon- en Arakanstaten zouden overhevelen aan plaatselijke leiders – de gezworen vijanden van de Tatmadaw – die het leger ertoe aanzette om opnieuw de macht te grijpen in een coup d’état.
 
-![Ne Win](https://user-images.githubusercontent.com/84398782/118833345-a9172f80-b8c1-11eb-9dbf-edb3d57d0765.png)
+![](https://user-images.githubusercontent.com/84398782/118833345-a9172f80-b8c1-11eb-9dbf-edb3d57d0765.png#center) *Ne Win*
 
 
 Het was gedurende deze periode onder Ne Win, tussen 1962 en 1988, waarin Birma institutioneel gevormd zou worden als een etnocentristische staat waarin het leger de centrale functie vervult in alle aspecten van het politieke wezen en de uitvoerende macht bijna uitsluitend bezet werd door legerofficieren. De eerste twaalf jaren post-1962 \(1962-1974\) werden gekenmerkt door een directe militaire dictatuur. De twaalf jaren erna \(1974-1988\) zouden dan weer gekarakteriseerd worden door een autoritair één-partijbestel, geleid door de Birmese Socialistische Programmapartij \(BSPP\) en openlijk door de Tatmadaw gesteund. De ideologie achter dit bewind was “de Birmese weg naar Socialisme”, de facto een vaag uitgelijnd hersenspinsel waarin revolutionair, antiwesters, nationalistisch onafhankelijkheidsdenken werd ontdaan van alle democratische ambities.
@@ -106,7 +107,7 @@ De situatie verergerde bijna aansluitend op de neergeslagen Saffraanrevolutie to
 
 Enkele dagen na de verwoestende cycloon Nargis rolde de SPDC een referendum uit waarin gestemd kon worden voor een grondwet waarin de schijn werd hooggehouden van democratische hervormingen. Volgens deze vernieuwde grondwet zou een tweekamerstelsel worden ingesteld – een Hogerhuis \(Amyotha Hluttaw\) en een Lagerhuis \(Pyithu Hluttaw\) – waarbinnen de Tatmadaw zich een kwart van de zitjes zou toe-eigenen na een verkiezing die twee jaar later zou worden georganiseerd. Op deze manier konden grondswetswijzigingen steeds worden tegengehouden door de legerbonzen in de Hluttaws \(het wetgevend orgaan\). Ook bleven defensie, grenszaken en nationale veiligheid stevig in de greep van het leger. Zodoende bleef de Tatmadaw hoedanook vrijgesteld van democratische checks and balances.
 
-![Nargis – de ravage na de cycloon nam bijbelse proporties aan in de Irrawaddydelta. De donkere delen op de foto rechts duiden de overstroomde gebieden aan. Bron: ESA](https://user-images.githubusercontent.com/84398782/118833421-b6341e80-b8c1-11eb-95e6-b78661cc8154.png)
+![](https://user-images.githubusercontent.com/84398782/118833421-b6341e80-b8c1-11eb-95e6-b78661cc8154.png#center) *Nargis – de ravage na de cycloon nam bijbelse proporties aan in de Irrawaddydelta. De donkere delen op de foto rechts duiden de overstroomde gebieden aan. Bron: ESA*
 
 
 Maar voor een naïef optimisme bleek het te vroeg te zijn. De grondwet van 2008, die ontegensprekelijk een stap voorwaarts leek en een sterke mate van economische en politieke liberalisering voor etnische minderheden beloofde, zou een keerzijde hebben. Zo werden er ministers voor Etnische Zaken aangesteld binnen de regering en voerde het leger een verbredingsoperatie uit naar vrouwen en etnische minderheden. De vorming van dit identitaire bestel creëerde een systeem waarbij relatief grote minderheden meer privileges kregen, vaak ten koste van de kleinere minderheidsgroepen. Als gevolg hiervan werd de steun voor de grotere minderheidsgroepen voor de grondwetswijziging aangewakkerd, maar bouwden er zich tegelijkertijd frustraties op binnen talloze kleinere minderheidsgroepen.
@@ -173,7 +174,7 @@ Snel bleek dat de Tatmadaw haar tanden stukbeet op het sterk georganiseerde en l
 
 Ondertussen leek Aung San Suu Kyi te volharden in haar faustiaanse overeenkomst met de Tatmadaw door in 2019 naar Den Haag af te reizen om de acties van het Myanmarese leger in Rakhine met hand en tand te verdedigen voor het Internationale Gerechtshof van de Verenigde Naties. Het zou simplistisch zijn deze onderneming af te doen als opportunistische hofmakerij naar de Tatmadaw. Zoals de staatsadviseur in een interview in 2017 aangaf, zag ze zichzelf altijd in de eerste plaats als een politicus. En hoewel haar trip naar Den Haag haar zou brandmerken als een internationale paria, werd haar stevige verdediging van de acties in Rakhine aan het nationalistische thuisfront uiterst positief onthaald.
 
-![Duizenden Yangonezen kwamen op 10 december op straat hun steun betuigen voor de verdediging van Aung San Suu Kyi aan het Internationale Gerechtshof. Foto: Frontier.](https://user-images.githubusercontent.com/84398782/118833498-c6e49480-b8c1-11eb-815d-e4161a069c0f.png)
+![](https://user-images.githubusercontent.com/84398782/118833498-c6e49480-b8c1-11eb-815d-e4161a069c0f.png#center) *Duizenden Yangonezen kwamen op 10 december op straat hun steun betuigen voor de verdediging van Aung San Suu Kyi aan het Internationale Gerechtshof. Foto: Frontier.*
 
 Nadat de NLD een kleine tik uitgedeeld kreeg bij de tussentijdse verkiezingen van 2018, leek haar passage bij het Internationale Gerechtshof Aung San Suu Kyi geen windeieren op te leveren toen ze in de daaropvolgende verkiezingen in 2020 alweer een klinkende overwinning behaalde.
 
