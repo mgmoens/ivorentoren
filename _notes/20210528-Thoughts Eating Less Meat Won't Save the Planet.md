@@ -2,6 +2,7 @@
 title: Thoughts on the video 'Eating less Meat won't save the Planet. Here's Why'
 tags: environmentalism
 toc: true
+state: publish
 ---
 
 <iframe max-width="100%" height="auto" src="https://www.youtube-nocookie.com/embed/sGG-A80Tl5g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

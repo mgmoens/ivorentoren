@@ -2,6 +2,7 @@
 tags: geopolitiek
 title: Politieke Geschiedenis van de Tatmadaw
 toc: true
+state: publish
 ---
 
 Het was met grote sier dat de Tatmadaw – het Birmese leger – de 76e Nationale Dag van de Strijdkrachten vierde.

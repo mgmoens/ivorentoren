@@ -11,6 +11,7 @@ layout: stylesheet
 @import "/assets/css/highlight.css";
 @import "/assets/css/feed_sorting.css";
 @import "/assets/css/toc_styling.css";
+@import "/assets/css/imagecaption_styling.css";
 /* Containers: Body, Container, Box, Main, Header, Content */ 
 
 html {

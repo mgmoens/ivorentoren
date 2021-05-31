@@ -2,6 +2,7 @@
 tag: [economie, België]
 title: Het Inflatiespook
 toc: true
+state: publish
 ---
 
 Afgelopen vrijdag ging N-VA voorzitter [Bart De Wever](https://twitter.com/de_NVA/status/1393297306187927555?s=20) tekeer tegen het monetaire beleid van de Amerikaanse centrale bank en de gevaren die dit met zich meedraagt:
