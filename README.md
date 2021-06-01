@@ -4,6 +4,8 @@ Een korte samenvatting van de bewerkingen die men kan verrichten via github.
 
 ## Hoe een 'artikel' toevoegen
 
+Ga naar [notes](https://github.com/foreveryone1/ivorentoren/tree/main/_notes)
+
 ![image](https://user-images.githubusercontent.com/27033050/118676518-c386d580-b7fb-11eb-82bf-49bf006e128e.png)
 
 Gelieve wanneer je een artikel toevoegt de bestandsnaam te beginnen met de datum (geformatteerd als `JJJJMMDD-` => 28 Mei 2021 wordt `20210528-`).
