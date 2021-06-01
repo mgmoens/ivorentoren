@@ -6,7 +6,7 @@
 <head>
     <meta content="width=device-width, initial-scale=1" name="viewport" />
     <meta content="{{ site.title }}" property="og:site_name"/>
-    <meta content="{{ site.user_description }}." property="og:description">
+    <meta content="{{ site.user_description }}" property="og:description">
     <meta content="{{ site.url }}/about/" property="article:author">
 
 
@@ -65,6 +65,9 @@
             {%- endif -%}
             {%- include comments.html -%}
             {%- include footer.html -%}
+            {%- if page.content-type == "notes" -%}
+                <div class="buffer"></div>
+            {%- endif -%}
         </div>
         <button class="scroll-to-top" id="scroll-to-top"><i class="fa fa-chevron-up"></i></button>
     </div>
