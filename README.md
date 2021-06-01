@@ -42,6 +42,8 @@ Je kan een afbeelding rechtsreeks knippen en plakken en deze zal onmiddellijk in
 
 Een afbeelding kan gecentreerd worden door #center te schrijven na de link. `![](www.afbeelding.com/afbeelding.png#center)`
 
+Een ondertekst van een centreerde afbeelding schrijf je in `*schuine*` letters onmiddelijk na de afbeelding. `![](www.afbeelding.com/afbeelding.png#center) *ondertekst*`
+
 * Een lijst is zo simpel als een nieuwe lijn beginnen met een streep
   * Je drukt tweemaal tab vóór de streep om een subdeel van een lijst aan te geven.
 
